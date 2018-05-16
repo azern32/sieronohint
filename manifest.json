@@ -1,1 +1,10 @@
-test 
+{
+  "name": "Sierohint",
+  "version": "0.1",
+  "version_name": "0.1 on build",
+  "description": "Provide you with some hint!",
+  "browser_action": {
+    "default_title":"Sierohint"
+  },
+  "manifest_version": 2
+}
